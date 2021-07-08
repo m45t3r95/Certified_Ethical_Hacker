@@ -1,0 +1,13 @@
+Social Engineering
+------------------------------
+
+1. Social Engineering using Various Techniques
+	1.1. Sniff Users' Credentials using the Social-Engineer Toolkit (SET)
+	1.2. Phishing using ShellPhish
+
+2. Detect a Phishing Attack
+	2.1. Detect Phishing using Netcraft
+	2.2. Detect Phishing using PhishTank
+
+3. Audit Organization's Security for Phishing Attacks
+	3.1. Audit Organization's Security for Phishing Attacks using OhPhish

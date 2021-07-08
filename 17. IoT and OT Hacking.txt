@@ -1,0 +1,8 @@
+IoT and OT Hacking
+---------------------
+
+1. Footprinting using Various Footprinting Techniques
+	1.1. Gather Information using Online Footprinting Tools
+
+2. Capture and Analyze IoT Device Traffic
+	2.1. Capture and Analyze IoT Traffic using Wireshark

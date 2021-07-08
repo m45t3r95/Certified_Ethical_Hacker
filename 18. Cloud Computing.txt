@@ -1,0 +1,12 @@
+Cloud Computing
+-------------------------------
+
+1. S3 Bucket Enumeration using Various S3 Bucket Enumeration Tools
+	1.1. Enumerate S3 Buckets using lazys3
+	1.2. Enumerate S3 Buckets using S3Scanner
+
+2. Exploit S3 Buckets
+	2.1. Exploit Open S3 Buckets using AWS CLI
+
+3. Privilege Escalation to Gain Higher Privileges
+	3.1. Escalate IAM User Privileges by Exploiting Misconfigured User Policy

@@ -1,0 +1,29 @@
+System Hacking
+-----------------------------
+
+1. Gain Access to the System
+	1.1. Active Online Attack to Crack the System's Password using Responder
+	1.2. Audit System Passwords using L0phtCrack
+	1.3. Find Vulnerabilities on Exploit Sites
+	1.4. Exploit Client-Side Vulnerabilities and Establish a VNC Session
+	1.5. Gain Access to a Remote System using Armitage
+	1.6. Hack a Windows Machine with a Malicious Office Document using TheFatRat
+	1.7. Buffer Overflow Attack to Gain Access to a Remote System
+
+2. Privilege Escalation to Gain Higher Privileges
+	2.1. Escalate Privileges using Privilege Escalation Tools and Exploit Client-Side Vulnerabilities
+	2.2. Hack a Windows Machine using Metasploit and Perform Post-Exploitation using Meterpreter
+
+3. Maintain Remote Access and Hide Malicious Activities
+	3.1. User System Monitoring and Surveillance using Power Spy
+	3.2. User System Monitoring and Surveillance using Spytech SpyAgent
+	3.3. Hide Files using NTFS Streams
+	3.4. Hide Data using White Space Steganography
+	3.5. Image Steganography using OpenStego
+	3.6. Covert Channels using Covert_TCP
+
+4. Clear Logs to Hide the Evidence of Compromise
+	4.1. View, Enable, and Clear Audit Policies using Auditpol
+	4.2. Clear Windows Machine Logs using Various Utilities
+	4.3. Clear Linux Machine Logs using the BASH Shell
+	4.4. Clear Windows Machine Logs using CCleaner 

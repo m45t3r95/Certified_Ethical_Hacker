@@ -1,0 +1,9 @@
+Session Hijacking
+---------------------
+
+1. Session Hijacking
+	1.1. Hijack a Session using Zed Attack Proxy (ZAP)
+	1.2. Intercept HTTP Traffic using bettercap
+
+2. Detect Session Hijacking
+	2.1. Detect Session Hijacking using Wireshark

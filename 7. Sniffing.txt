@@ -1,0 +1,20 @@
+Sniffing
+-----------------
+
+1. Active Sniffing
+	1.1. MAC Flooding using macof
+	1.2. DHCP Starvation Attack using Yersinia
+	1.3. ARP Poisoning using arpspoof
+	1.4. Man-in-the-Middle (MITM) Attack using Cain & Abel
+	1.5. Spoof a MAC Address using TMAC and SMAC
+
+2. Network Sniffing using Various Sniffing Tools
+	2.1. Password Sniffing using Wireshark
+	2.2. Analyze a Network using Capsa Network Analyzer
+	2.3. Analyze a Network using the Omnipeek Network Protocol Analyzer
+	2.4. Analyze a Network using the SteelCentral Packet Analyzer
+
+3. Detect Network Sniffing
+	3.1. Detect ARP Poisoning in a Switch Based Network
+	3.2. Detect ARP Attacks using Xarp
+	3.3. Detect Promiscuous Mode using Nmap and NetScanTools Pro

@@ -1,0 +1,50 @@
+Footprinting and Reconnaissance
+--------------------------------
+
+1. Footprinting Through Search Engines (Google, Bing, Yahoo, Ask, Aol, Baidu, WolframAlpha, and DuckDuckGo)
+	1.1. Gather Information using Advanced Google Hacking Techniques
+	1.2. Gather Information from Video Search Engines
+	1.3. Gather Information from FTP Search Engines
+	1.4. Gather Information from IoT Search Engines
+	
+2. Footprinting Through Web Services
+	2.1. Find the Company's Domains and Sub-domains using Netcraft
+	2.2. Gather Personal Information using PeekYou Online People Search Service
+	2.3. Gather Email List using theHarvester
+	2.4. Gather Information using Deep and Dark Web Searching
+	2.5. Determine Target OS Through Passive Footprinting
+	
+3. Footprinting Through Social Networking Sites
+	3.1. Gather Employees' Information from LinkedIn using theHarvester
+	3.2. Gather Personal Information from Various Social Networking Sites using Sherlock
+	3.3. Gather Information using Followerwonk
+	
+4. Website Footprinting
+	4.1. Gather Information About a Target Website using Ping Command Line Utility
+	4.2. Gather Information About a Target Website using Website Informer
+	4.3. Extract Company's Data using Web Data Extractor
+	4.4. Mirror a Target Website using HTTrack Web Site Copier
+	4.5. Gather Wordlist from the TArget Website using CeWl
+	
+5. Email Footprinting
+	5.1. Gather Information About a Target by Tracing Emails using eMailTrackerPro
+	
+6. Whois Footprinting
+	6.1. Whois Lookup using DomainTools
+	
+7. DNS Footprinting
+	7.1. Gather DNS Information using nslookup Command Line Utility and Online Tool
+	7.2. Reverse DNS Lookup using Reverse IP Domain Check and DNSRecon
+	
+8. Network Footprinting
+	8.1. Locate the Network Range
+	8.2. Network Tracerouting in Windows and Linux Machines
+	8.3. Advanced Network Route Tracing using Path Analyzer Pro
+	
+9. Footprinting using Various Footprinting Tools
+	9.1. Footprinting a Target using Recon-ng
+	9.2. Footprinting a Target using Maltego
+	9.3. Footprinting a Target using OSRFramework
+	9.4. Footprinting a Target FOCA
+	9.5. Footprinting a Target using BillCipher
+	9.6. Footprinting a Target using OSINT Framework

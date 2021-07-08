@@ -1,0 +1,14 @@
+Hacking Web Server
+--------------------------
+
+1. Footprint the Web Server
+	1.1. Information Gathering using GhostEye
+	1.2. Web Server Reconnaissance using Skipfish
+	1.3. Footprint a Web Server using the httprecon Tool
+	1.4. Footprint a Web Server using ID Serve
+	1.5. Footprint a Web Server using Netcat and Telnet
+	1.6. Enumerate Web Server Information using Nmap Scripting Engine (NSE)
+	1.7. Uniscan Web Server Fingerprinting in Parrot Security
+
+2. Web Server Attack
+	2.1. Crack FTP Credentials using a Dictionary Attack

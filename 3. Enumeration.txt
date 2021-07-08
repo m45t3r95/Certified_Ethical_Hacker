@@ -1,0 +1,30 @@
+Enumeration
+------------
+
+1. NetBIOS Enumeration
+	1.1. NetBIOS Enumeration using Windows Command-Line Utilities
+	1.2. NetBIOS Enumeration using NetBIOS Enumerator
+	1.3. NetBIOS Enumeration using an NSE Script
+	
+2. SNMP Enumeration 
+	2.1. SNMP Enumeration using snmp-check
+	2.2. SNMP Enumeration using SoftPerfect Network Scanner
+	
+3. LDAP Enumeration
+	3.1. LDAP Enumeration using Active Directory Explorer (AD Explorer)
+	
+4. NFS Enumeration
+	4.1. NFS Enumeration using RPCScan and SuperEnum
+	
+5. DNS Enumeration
+	5.1. DNS Enumeration using Zone Transfer
+	5.2. DNS Enumeration using DNSSEC Zone Walking
+	
+6. RPC, SMB, and FTP Enumeration
+	6.1. RPC and SMB Enumeration using NetScanTools Pro
+	6.2. RPC, SMB, and FTP Enumeration using Nmap
+	
+7. Enumeration using Various Enumeration Tools
+	7.1. Enumerate Information using Global Network Inventory
+	7.2. Enumerate Network Resources using Advanced IP Scanner
+	7.3. Enumerate Information from Windows and Samba Hosts using Enum4linux

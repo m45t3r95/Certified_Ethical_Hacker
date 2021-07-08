@@ -1,0 +1,16 @@
+Hacking Wireless Networks
+----------------------------------
+
+1. Footprint a Wireless Network
+	1.1. Find Wi-Fi Network in Range using NetSurveyor
+
+2. Wireless Traffic Analysis
+	2.1. Find Wi-Fi Network and Sniff Wi-Fi Packets using Wash and Wireshark
+
+3. Wireless Attacks
+	3.1. Find Hidden SSIDs using Aircrack-ng
+	3.2. Crack a WEP Network using Wifiphisher
+	3.3. Crack a WEP Network using Aircrack-ng
+	3.4. Crack a WPA Network using Fern Wifi Cracker
+	3.5. Crack a WPA2 Network using Aircrack-ng
+	3.6. Create a Rough Access Point to Capture Data Packets using MANA-Toolkit

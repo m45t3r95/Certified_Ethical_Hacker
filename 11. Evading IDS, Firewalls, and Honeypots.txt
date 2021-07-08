@@ -1,0 +1,11 @@
+Evading IDS, Firewalls, and Honeypots
+---------------------------------------------------
+
+1. Intrusion Detection using Various Tools
+	1.1. Detect Intrusion using Snort
+	1.2. Detect Malicious Network Traffic using ZoneAlarm FREE FIREWALL 2019
+	1.3. Detect Malicious Network Traffic using HoneyBOT
+
+2. Evade Firewalls using Various Evasion Techniques
+	2.1. Bypass Windows Firewall using Nmap Evasion Techniques
+	2.2. Bypass Firewall Rules using HTTP/FTP Tunneling

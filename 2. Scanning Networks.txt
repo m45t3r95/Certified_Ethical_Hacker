@@ -1,0 +1,31 @@
+Scanning Networks
+------------------
+
+1. Host Discovery
+	1.1. Host Discovery using Nmap
+	1.2. Host Discovery using Angry IP Scanner
+	
+2. Port and Service Discovery
+	2.1. Port and Service Discovery using MegaPing
+	2.2. Port and Service Discovery using NetScanTools Pro
+	2.3. Explore Various Network Scanning Techniques using Nmap
+	2.4. Explore Various Network Scanning Techniques using Hping3
+	
+3. OS Discovery
+	3.1. Identify the Target System's OS with Time-to-Live (TTL) and TCP Window Sizes using Wireshark
+	3.2. OS Discovery using Nmap Scripting Engine (NSE)
+	3.3. OS Discovery using Unicornscan
+	
+4. Scan beyond IDS and Firewall
+	4.1. Scan beyond IDS/Firewall using various Evasion Techniques
+	4.2. Create Custom Packets using Colasoft Packet Builder to Scan beyond IDS/Firewall
+	4.3. Create Custom UDP and TCP Packets using Hping3 to Scan beyond IDS/Firewall
+	4.4. Create Custom Packets using Nmap to Scan beyond IDS/Firewall
+	4.5. Browse Anonymously using Proxy Switcher
+	4.6. Browse Anonymously using CyberGhost VPN
+	
+5. Draw Network Diagrams
+	5.1. Draw Network Diagrams using Network Topology Mapper
+	
+6. Network Scanning using Various Scanning Tools
+	6.1 Scan a Target Network using Metasploit
